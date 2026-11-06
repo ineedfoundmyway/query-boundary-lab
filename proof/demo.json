@@ -1,0 +1,8 @@
+{
+  "fixture": "in-memory SQLite only",
+  "normal_login": true,
+  "wrong_password": false,
+  "vulnerable_bypass": true,
+  "parameterized_bypass": false,
+  "mitigation": "Bind values separately from SQL syntax"
+}

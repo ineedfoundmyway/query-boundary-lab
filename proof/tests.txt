@@ -1,0 +1,13 @@
+test_empty_input (test_main.QueryTests.test_empty_input) ... ok
+test_parameterized_blocks_bypass (test_main.QueryTests.test_parameterized_blocks_bypass) ... ok
+test_proof_contract (test_main.QueryTests.test_proof_contract) ... ok
+test_quotes_are_data (test_main.QueryTests.test_quotes_are_data) ... ok
+test_unknown_user (test_main.QueryTests.test_unknown_user) ... ok
+test_valid_login (test_main.QueryTests.test_valid_login) ... ok
+test_vulnerable_bypass (test_main.QueryTests.test_vulnerable_bypass) ... ok
+test_wrong_password (test_main.QueryTests.test_wrong_password) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.001s
+
+OK
